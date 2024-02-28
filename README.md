@@ -1,1 +1,1 @@
-# Hospitality_Domain_Analysis
+Utilized Power BI to analyze 3 months of dataset for AtliQ Grands in hospitality domain, addressing revenue loss and market share decline. Developed dashboard for revenue team to extract insights on revenue trends, leading to improve revenue performance and market share recovery.
